@@ -1,8 +1,8 @@
 #VIETNAMESE translation below
 
 #ENGLISH
-This is a clone of the popular game Flappy Bird implemented in Python
-Every part of this project is a sample code which shows how to do the following:
+#This is a clone of the popular game Flappy Bird implemented in Python
+#Every part of this project is a sample code which shows how to do the following:
 -Create background for the project to run on (initialize colors, width & height, fps, time, speed)
 -Create "Bird" as playable character, showing itself on the background screen as well as calculating the velocity
 -Create "Pipes" as obstacles for the "Bird" to pass by
