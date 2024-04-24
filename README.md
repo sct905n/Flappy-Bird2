@@ -20,6 +20,11 @@
 
 -Create main, calling all the functions for the project to run properly.
 
+
+##DEMO VIDEO
+
+https://github.com/sct905n/Flappy-Bird2/assets/167898938/a8b66786-dd2d-4c20-9ac1-3d8c9f3ba2c6
+
 ###=================================================================================
 
 ###VIETNAMESE
